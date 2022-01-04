@@ -27,7 +27,7 @@ header {
     padding: 1rem;
 }
 #heading {
-    color: white;
+    color: #333;
     text-shadow: 2px 0px 4px rgb(102, 102, 102, 0.50);
 }
 
